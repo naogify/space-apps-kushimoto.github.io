@@ -9,8 +9,8 @@
 ## 開発者向け
 
 ```
-$ git clone git@github.com:space-apps-kushimoto/space-apps-kushimoto.git
-$ cd space-apps-kushimot
+$ git clone git@github.com:space-apps-kushimoto/space-apps-kushimoto.github.io.git
+$ cd space-apps-kushimoto.github.io
 $ bundle install --path vendor
 ```
 
