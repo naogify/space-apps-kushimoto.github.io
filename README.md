@@ -2,6 +2,8 @@
 
 このリポジトリは Space Apps Kushimoto の公式サイトのリポジトリです。
 
+https://space-apps-kushimoto.github.io/
+
 ## ブログの書き方
 
 (GitHub の GUI を使った記事の書き方をここに。)
