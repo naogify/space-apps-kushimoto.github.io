@@ -14,8 +14,8 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: Space Apps Challenge Kushimoto
+subtitle: "NASA 主催の世界同時ハッカソン"
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
@@ -30,8 +30,8 @@ markdown: kramdown
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: スタッフブログ
+    desc: "Space Apps Challenge Kushimoto の実行委員によるスタッフブログです。"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: お知らせ
+    desc: "Space Apps Challenge Kushimoto の実行委員からのお知らせ"
