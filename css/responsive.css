@@ -399,6 +399,20 @@ px      68    160    252    */
     height: 50px;
     line-height: 50px;
   }
+  #feature
+  {
+    padding: 0;
+  }
+  #feature .container
+  {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  #feature .content
+  {
+    background-color: transparent;
+    padding: 16px 0;
+  }
 }
 /*		Wide Mobile Layout: 480px.
 		Gutters: 24px.
