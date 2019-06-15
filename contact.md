@@ -1,6 +1,6 @@
 ---
 layout: page
-title: コンタクト
+title: お問い合わせ
 permalink: /contact/
 ---
 
