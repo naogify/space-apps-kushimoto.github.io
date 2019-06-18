@@ -19,7 +19,7 @@ $ bundle install --path vendor
 ローカル環境の起動
 
 ```
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve --watch --baseurl=http://localhost:4000
 ```
 
 ## 参考
