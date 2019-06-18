@@ -28,13 +28,6 @@
 
 <script src="{{ site.baseurl }}/js/main.js"></script>
 
-<!--
-/*
- * Airspace
- * Ported to Jekyll by Andrew Lee
- * https://github.com/ndrewtl/airspace-jekyll
- * Designed and Developed by ThemeFisher
- * https://themefisher.com/
- *
- */
--->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:image" content="{{ site.baseurl }}/img/ogp.jpg" />
