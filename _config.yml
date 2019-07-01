@@ -18,7 +18,7 @@ title: Space Apps Challenge Kushimoto
 subtitle: "NASA 主催の世界同時ハッカソン"
 url: "https://space-apps-kushimoto.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "https://space-apps-kushimoto.github.io"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
