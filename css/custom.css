@@ -72,9 +72,6 @@ header .navbar {
   margin-bottom: 0px;
   border: 0px;
 }
-header .navbar-brand {
-  padding: 0;
-}
 header .navbar-brand img
 {
   max-width: 100%;
@@ -838,4 +835,12 @@ footer .footer-manu ul li a:hover {
 #global-header .block
 {
   padding: 0;
+}
+
+@media only screen and (max-width: 414px) {
+  .navbar-brand {
+    top: 30%!important;
+    line-height: 3rem!important;
+    width: 80%!important;
+  }
 }
