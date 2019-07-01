@@ -841,8 +841,6 @@ footer .footer-manu ul li a:hover {
   .navbar-brand {
     padding: 0 15px;
     width: 80%;
-    line-height: 3rem!important;
+    line-height: 3rem;
   }
 }
-
-
