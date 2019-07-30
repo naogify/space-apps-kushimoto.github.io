@@ -5,8 +5,25 @@
 https://space-apps-kushimoto.github.io/
 
 ## ブログの書き方
+1. このリポジトリをフォーク。
+2. フォークしたリポジトリ上で、`/_posts/`ディレクトリに移動。 例：`https://github.com/[your-name]/space-apps-kushimoto.github.io/tree/master/_posts`
+3. Create New Fileをクリック。
+4. 記事を書く。
+5. プルリクエストを送る。
 
-(GitHub の GUI を使った記事の書き方をここに。)
+### 形式
+- ファイル名を`YYYY-MM-DD-name-of-post.md`の形式で保存。
+- 最初の行に下の形式でメタデータを追加。
+
+```
+
+---
+layout: post
+title: Your-Title
+date: 2016-05-20 21:11:27
+---
+
+```
 
 ## 開発者向け
 
