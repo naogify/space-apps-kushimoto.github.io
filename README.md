@@ -21,7 +21,7 @@ https://space-apps-kushimoto.github.io/
 - ファイル名を`YYYY-MM-DD-name-of-post.md`の形式で保存。
 - 最初の行に下の形式でメタデータを追加。
     - https://github.com/ndrewtl/airspace-jekyll/blame/master/_posts/2016-05-20-welcome-to-jekyll.md#L1-L7
-
+- マークダウン形式で記述。
 
 ## 開発者向け
 
