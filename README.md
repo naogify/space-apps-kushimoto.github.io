@@ -7,11 +7,11 @@ https://space-apps-kushimoto.github.io/
 ## ブログの書き方
 1. GitHub上でこのリポジトリをフォーク。
 
-2. フォークしたリポジトリ上で、`/_posts/`ディレクトリに移動。 
-- 例：`https://github.com/[your-name]/space-apps-kushimoto.github.io/tree/master/_posts`
+2. フォークしたリポジトリ上で、`/_posts/`ディレクトリに移動。
+    - 例：`https://github.com/[your-name]/space-apps-kushimoto.github.io/tree/master/_posts`
 
 3. [Create New File] をクリック
-- <img width="500" alt="スクリーンショット 2019-07-30 13 36 34" src="https://user-images.githubusercontent.com/8760841/62172910-f59d1e00-b36e-11e9-96c5-5281461ccf9f.png">
+    - <img width="500" alt="スクリーンショット 2019-07-30 13 36 34" src="https://user-images.githubusercontent.com/8760841/62172910-f59d1e00-b36e-11e9-96c5-5281461ccf9f.png">
  
 4. 記事を書く。
 
