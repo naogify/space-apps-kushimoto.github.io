@@ -1,0 +1,39 @@
+#page .container h2
+{
+  border-bottom: 3px double #cccccc;
+  padding-bottom: 5px;
+  font-size: 1.4em;
+  font-weight: bolder;
+}
+
+#page .container h3
+{
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 5px;
+  font-size: 1.2em;
+  font-weight: bolder;
+}
+
+#page .container table
+{
+  border: 1px solid #dedede;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#page .container th,
+#page .container td
+{
+  border: 1px solid #dedede;
+  padding: 8px;
+}
+
+#page .container th
+{
+  background-color: #f5f5f5;
+}
+
+#page .container .timetable tr > td:first-child
+{
+  width: 150px;
+}
