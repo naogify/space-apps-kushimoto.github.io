@@ -35,3 +35,11 @@ Space Apps Challenge Kushimoto では、スポンサーの皆様によるサポ�
 * ウェブサイトや印刷物へのバナー広告の掲載
 
 値段: 10,000円
+
+
+## 申し込み方法
+
+以下のフォームからどうぞ。
+数日以内に担当者からご連絡したします。
+
+https://docs.google.com/forms/d/1enD4k-wZYs5eCILpaRUhAHSU5JzguxTQrkB70sotitY/edit
