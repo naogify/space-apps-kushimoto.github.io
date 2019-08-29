@@ -42,4 +42,4 @@ Space Apps Challenge Kushimoto では、スポンサーの皆様によるサポ�
 以下のフォームからどうぞ。
 数日以内に担当者からご連絡したします。
 
-https://docs.google.com/forms/d/1enD4k-wZYs5eCILpaRUhAHSU5JzguxTQrkB70sotitY/edit
+[スポンサー申し込みフォーム](https://docs.google.com/forms/d/1enD4k-wZYs5eCILpaRUhAHSU5JzguxTQrkB70sotitY/edit)
