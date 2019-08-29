@@ -37,3 +37,19 @@
 {
   width: 150px;
 }
+
+#page ul
+{
+  list-style-type: disc;
+  margin: 1em 0 1em 30px;
+}
+
+#page h2
+{
+  margin-top: 2em;
+}
+
+#page h2:first-child
+{
+  margin-top: 0;
+}
