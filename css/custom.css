@@ -839,3 +839,12 @@ footer .footer-manu ul li a:hover {
 {
   padding: 0;
 }
+
+#contact-from{
+  display: flex;
+  flex-direction: column;
+}
+
+#contact-from input, #contact-from textarea {
+  margin-bottom: 15px;
+}
