@@ -19,7 +19,7 @@ permalink: /access/
     </tr>
     <tr>
      <td>URL</td>
-     <td>https://omoshiro-yh.com/</td>
+     <td><a href="https://omoshiro-yh.com/">https://omoshiro-yh.com/</a></td>
     </tr>
    
   </tbody>
@@ -39,8 +39,8 @@ permalink: /access/
      <td>
           <ul>
            <li>JR紀勢本線串本駅から串本町コミュニティバス（大島・出雲線）に乗車。「青少年の家」で降車。</li>
-           <li>時刻表：https://www.town.kushimoto.wakayama.jp/kurashi/community-bus/files/community_bus_timetable3.pdf</li>
-           <li>串本町コミュニティバス：https://www.town.kushimoto.wakayama.jp/kurashi/community-bus/</li>
+           <li><a href="https://www.town.kushimoto.wakayama.jp/kurashi/community-bus/">串本町コミュニティバスWEBサイト</a></li>
+           <li><a href="https://www.town.kushimoto.wakayama.jp/kurashi/community-bus/files/community_bus_timetable3.pdf">時刻表</a></li>
           </ul>
      </td>
     </tr>
