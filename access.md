@@ -52,3 +52,11 @@ permalink: /access/
     </tr>
   </tbody>
 </table>
+
+## 地図
+<div
+  class="geolonia"
+  data-lat="33.4506301"
+  data-lng="135.7726534"
+  data-zoom="13.11z"
+>SpaceAppsKushimoto2019会場</div>
