@@ -54,9 +54,14 @@ permalink: /access/
 </table>
 
 ## 地図
+<div id="marker">
+  <img src="/img/marker.svg" alt="marker">
+</div>
 <div
+  id="access-map"
   class="geolonia"
   data-lat="33.4506301"
   data-lng="135.7726534"
-  data-zoom="13.11z"
+  data-zoom="12.5z"
+  data-custom-marker="#marker"
 >SpaceAppsKushimoto2019会場</div>
