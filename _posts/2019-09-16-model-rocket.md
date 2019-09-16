@@ -57,7 +57,7 @@ author: Naoki Ohashi
 
 
 
-発射風景は<a href="https://www.youtube.com/watch?v=dIm8g0KGRic" >Youtube</a> でご覧頂けます。
+発射風景は<a href="https://www.youtube.com/watch?v=dIm8g0KGRic">YouTube</a> でご覧頂けます。
 
 
 
@@ -73,5 +73,5 @@ author: Naoki Ohashi
 
 ### 余談
 
-当日は、某Vtuberさんとのコラボも兼ねていたため、途中で高校生達はVtuberさんのインタビューを受けていました。
-後日、Vtuberさんのチャンネルの方でアップされるそうです。楽しみにしてて下さい！
+当日は、某VTuberさんとのコラボも兼ねていたため、途中で高校生達はVTuberさんのインタビューを受けていました。
+後日、VTuberさんのチャンネルの方でアップされるそうです。楽しみにしてて下さい！
