@@ -57,7 +57,7 @@ author: Naoki Ohashi
 
 
 
-発射風景はYouTubeでご覧頂けます。
+発射風景はYouTubeでご覧頂けます。（下のサムネイルクリックして下さい）
 
 
 [![](https://img.youtube.com/vi/dIm8g0KGRic/0.jpg)](https://www.youtube.com/watch?v=dIm8g0KGRic)
