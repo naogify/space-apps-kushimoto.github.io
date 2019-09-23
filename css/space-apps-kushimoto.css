@@ -53,3 +53,33 @@
 {
   margin-top: 0;
 }
+
+.judges{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -32px;
+  margin-right: -32px;
+}
+
+.judges .judge{
+  width: 25%;
+  padding: 32px;
+  box-sizing: border-box;
+  word-break: break-word;
+}
+
+.judge-image img{
+  width: 190px;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 960px) {
+  .judges{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .judges .judge{
+    width: 50%;
+    padding: 16px;
+  }
+}

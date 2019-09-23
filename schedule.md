@@ -5,9 +5,14 @@ permalink: /schedule/
 ---
 
 ## 審査員
-<div>
-{% for post in site.posts %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+
+<div class="judges">
+{% for judge in site.judges %}
+  <div class="judge">
+    <div class="judge-image"><img src="{{ site.url }}/img/judges/{{ judge.img }}" alt="{{ judge.name }}"></div>
+    <h2>{{ judge.name }}</h2>
+    <div>{{ judge.position }}</div>
+  </div>
 {% endfor %}
 </div>
 
