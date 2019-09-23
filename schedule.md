@@ -4,6 +4,13 @@ title: スケジュール
 permalink: /schedule/
 ---
 
+## 審査員
+<div>
+{% for post in site.posts %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+</div>
+
 ## 日時
 
 2019年10月18日(金) - 2019年10月20日(日)
