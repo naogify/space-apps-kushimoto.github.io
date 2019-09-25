@@ -45,32 +45,7 @@ judges:
     position: 国立大学法人 和歌山大学 データ・インテリジェンス教育研究部門 （システム工学部）講師
   - name: 牟田 梓様
     img: muta.png
-    position: さくらインターネット株式会社 社長室 Tellus project (xData Alliance ProjectAllianceBusiness Group) プロデューサー 
+    position: さくらインターネット株式会社 社長室 Tellus project (xData Alliance ProjectAllianceBusiness Group) プロデューサー
   - name: 古崎　晃司様
     img: kozaki.png
     position: 大阪電気通信大学 情報通信工学部　情報工学科　教授
-
-
-gold:
-  # ココアップズ株式会社 アストロベアーズ事業部
-  - image: /img/sponsor/astrobears.png
-    url: https://www.astrobears.earth
-  # 株式会社ビジュアル・テクノロジー研究所
-  - image: /img/sponsor/VTL.png
-    url: http://vtl.co.jp
-  # 株式会社 Geolonia
-  - image: /img/sponsor/dummy.png
-    url: https://geolonia.com/
-
-silever:
-  # Dコアスタジオ
-  - image: /img/sponsor/dummy.png
-  # 株式会社アイキューブ
-  - image: /img/sponsor/icube.gif
-    url: https://www.icube.ph/
-  # 株式会社リゾート大島
-  - image: /img/sponsor/resortohshima.png
-    url: https://resortohshima.com/
-  # 株式会社正和情報サービス
-  - image: /img/sponsor/SJS.png
-    url: https://www.seiwajoho.co.jp/
