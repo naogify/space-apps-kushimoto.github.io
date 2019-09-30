@@ -5,7 +5,7 @@ permalink: /access/
 ---
 
 ## 会場住所
-和歌山県立潮岬青少年の家（和歌山県東牟婁郡串本町潮岬699)
+和歌山県立潮岬青少年の家（和歌山県東牟婁郡串本町潮岬669)
 
 <a href="https://www.google.com/maps/search/?api=1&amp;query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E6%BD%AE%E5%B2%AC%E9%9D%92%E5%B0%91%E5%B9%B4%E3%81%AE%E5%AE%B6">GoogleMapアプリで開く</a>
 
